@@ -1,0 +1,33 @@
+<!--
+{
+  "layout": "blank",
+  "title": "cabhishek.com",
+  "permalink": "/atom.xml",
+  "query": {
+    "type": "article"
+  }
+}
+-->
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>{{site.title}}</title>
+  <link href="http://cabhishek.com/atom.xml" rel="self"/>
+  <link href="http://cabhishek.com/"/>
+  <updated>{{datetime format="YYYY-MM-DDTHH:mm:ssZ"}}</updated>
+  <id>http://cabhishek.com/</id>
+  <author>
+    <name>Abhishek Kapatkar</name>
+    <email>abhishek@datathletics.com</email>
+  </author>
+
+  {{#query}}
+    <entry>
+      <title>{{title}}</title>
+      <link href="http://cabhishek.com{{permalink}}"/>
+      <updated>{{datetime date format="YYYY-MM-DDTHH:mm:ssZ"}}</updated>
+      <id>http://cabhishek.com{{permalink}}</id>
+    </entry>
+  {{/query}}
+
+</feed>

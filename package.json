@@ -1,0 +1,32 @@
+{
+  "name": "My-Personal-Blog",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cabhishek/cabhishek.github.io.git"
+  },
+  "author": {
+    "name": "Abhishek Kapatkar",
+    "url": "http://cabhishek.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cabhishek/cabhishek.github.io/issues"
+  },
+  "devDependencies": {
+    "autoprefixer": "^2.2.0",
+    "browserify": "^5.9.1",
+    "fs-extra": "*",
+    "he": "~0.3.6",
+    "highlight.js": "^7.5.0",
+    "html-minifier": "^0.6.6",
+    "ingen": "*",
+    "marked": "*",
+    "moment": "*",
+    "normalize.css": "^3.0.1",
+    "rework": "^1.0.0",
+    "rework-plugin-inline": "^1.0.1",
+    "rework-suit": "^4.0.0",
+    "shelljs": "^0.3.0",
+    "underscore": "^1.7.0"
+  }
+}

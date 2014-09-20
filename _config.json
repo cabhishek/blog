@@ -1,0 +1,19 @@
+{
+
+  "title": "Abhishek Kapatkar",
+  "description": "My space for thoughts, opinions and critics.",
+
+  "baseURL": "http://cabhishek.com",
+  "timezone": "America/New_York",
+
+  "excludeFiles": [
+    ".DS_Store",
+    "**/.DS_Store",
+    "bower.json",
+    "README.md",
+    "karma.conf.js"
+  ],
+  "postTypes": ["article"],
+  "taxonomyTypes": ["tag"],
+  "excerptLength": 16
+}

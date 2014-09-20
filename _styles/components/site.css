@@ -1,0 +1,54 @@
+.Site {
+
+}
+
+.Site-header {
+
+}
+
+.Site-contentContainer {
+  padding: 1.5em 1em 1em;
+}
+
+.Site-content {
+  margin: 0 auto;
+  max-width: 36em;
+}
+
+@media (--break-md) {
+  .Site-contentContainer {
+    padding: 2em;
+  }
+}
+
+@media (--break-lg) {
+
+  .Site {
+    overflow-y: scroll;
+  }
+
+  .Site-header {
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 11em;
+  }
+
+  .Site-contentContainer {
+    margin-left: 11em;
+    padding: 5em 3em 3em;
+  }
+}
+
+@media (--break-xl) {
+
+  .Site-header {
+    width: 14em;
+  }
+
+  .Site-contentContainer {
+    margin-left: 14em;
+    padding: 5em 4em 3em;
+  }
+}

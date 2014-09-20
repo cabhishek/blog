@@ -1,0 +1,30 @@
+.ArticlePreview {
+  color: inherit;
+  display: block;
+  padding: var(--space) 0;
+  text-decoration: none;
+}
+
+.ArticlePreview-title {
+  display: block;
+  font-size: 1.4em;
+  line-height: 1.1;
+  margin: .6em 0 .2em;
+  transition: color .2s cubic-bezier(.4,0,.2,1);
+}
+
+.ArticlePreview-excerpt {
+  color: #aaa;
+  font-size: 1em;
+  margin: 0;
+}
+
+.ArticlePreview-date {
+  color: #aaa;
+  font-size: .8em;
+}
+
+.ArticlePreview:hover .ArticlePreview-title {
+  color: var(--accent-color);
+}
+
