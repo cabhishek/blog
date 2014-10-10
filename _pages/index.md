@@ -5,13 +5,9 @@
 }
 -->
 
-I currently work at [The Motley Fool](http://fool.com) in Washington DC and on [Datathletics]() a project I helped Co-Found.
+I work at [The Motley Fool](http://fool.com) in Washington DC and on [Datathletics]() a project I helped Co-Found.
 
-I'm interested in Product development, open source technologies and currently write software in Javascript/Nodejs, Python and Golang. 
-And I've also recently ventured into datascience and data visualization world.
-
-
-This site is built using [Ingen](https://github.com/philipwalton/ingen)
+I'm interested in Product development, open source technology, data analysis and visualization. I enjoy writing code while travelling.
 
 
 ## Contact
@@ -22,10 +18,14 @@ This site is built using [Ingen](https://github.com/philipwalton/ingen)
 
 ## Projects
 
-* Datathletics - A web app to help triathletes make smarter decision  
-* Data analytics platform to help team make smarter product decisions 
-* Predictive models and web scrapers using scientfic python [tools](http://docs.continuum.io/anaconda/pkg-docs.html)
-* Financial planning web app with personalized stock recommending algorithm 
-* E-commerce system with payment system and product management tools
-* Multi threaded rate limiters and data harvesting systems
+* Datathletics - Web application to help triathletes make smarter race decision
+* SMAllocator  - Personalized Seperately managed accounts a.k.a [SMA](http://en.wikipedia.org/wiki/Separately_managed_account) recommender
+* Informant    - Analytics platform for data driven product decisions
+* IronMan      - Predictive models to analyze [Ironman](http://www.ironman.com/) triathletes performance
+* Touchstone   - Personalized financial planning application with stock recommending algorithm
+* Commerce     - A complete E-commerce system with product management tools
+
+
+This site is built using [Ingen](https://github.com/philipwalton/ingen)
+
 
