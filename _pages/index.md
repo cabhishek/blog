@@ -5,16 +5,16 @@
 }
 -->
 
-I work at [The Motley Fool](http://fool.com) in Washington DC and on [Datathletics]() a project I helped Co-Found.
+I currently work at [The Motley Fool](http://fool.com) in Washington DC. Previously I co-founded [Datathletics](), a data science project to help triathletes make better race decisions.
 
-I'm interested in Product development, open source technology, data analysis and visualization. I enjoy writing code while travelling.
+I'm interested in Product development, open source software, data analysis and visualization. I enjoy writing code while travelling.
 
 
-## Contact
+## Links
 
-* [E-mail](mailto:abhishek@datathletics.com)
-* [Twitter](http://twitter.com/cabhishek)
+* [E-mail](mailto:cabhishek@gmail.com)
 * [LinkedIn](http://www.linkedin.com/in/abhishekkapatkar/)
+* [CV](https://www.dropbox.com/s/evbimpo8ttzcb83/ABHISHEK%20KAPATKAR_SDE.docx?dl=0)
 
 ## Projects
 
