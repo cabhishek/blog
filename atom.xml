@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Abhishek Kapatkar</title>
+  <link href="http://cabhishek.com/atom.xml" rel="self"/>
+  <link href="http://cabhishek.com/"/>
+  <updated>2014-12-17T11:10:14-05:00</updated>
+  <id>http://cabhishek.com/</id>
+  <author>
+    <name>Abhishek Kapatkar</name>
+    <email>abhishek@datathletics.com</email>
+  </author>
+
+    <entry>
+      <title>Queen and Startup</title>
+      <link href="http://cabhishek.com/articles/queen-and-startup/"/>
+      <updated>2012-12-30T21:04:25-05:00</updated>
+      <id>http://cabhishek.com/articles/queen-and-startup/</id>
+    </entry>
+    <entry>
+      <title>Lean Startup</title>
+      <link href="http://cabhishek.com/articles/lean-startup/"/>
+      <updated>2012-07-18T22:04:25-04:00</updated>
+      <id>http://cabhishek.com/articles/lean-startup/</id>
+    </entry>
+    <entry>
+      <title>Hello world</title>
+      <link href="http://cabhishek.com/articles/new-blog/"/>
+      <updated>2011-08-24T22:04:25-04:00</updated>
+      <id>http://cabhishek.com/articles/new-blog/</id>
+    </entry>
+
+</feed>
+
