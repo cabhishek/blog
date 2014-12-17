@@ -21,7 +21,6 @@ deploy: build
 	@ cd _tmp && \
 		git init && \
 		git remote add origin git@github.com:cabhishek/cabhishek.com.git && \
-		git pull origin gh-pages && \
 		rm -rf ./* && \
 		cp -rf ../_site/ ./ && \
 		git add -A && \
