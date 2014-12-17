@@ -20,7 +20,7 @@ deploy: build
 	@ echo ">>> Updating gh-pages branch..."
 	@ cd _tmp && \
 		git init && \
-		git remote add origin https://github.com/cabhishek/cabhishek.github.io.git && \
+		git remote add origin git@github.com:cabhishek/cabhishek.com.git && \
 		git pull origin gh-pages && \
 		rm -rf ./* && \
 		cp -rf ../_site/ ./ && \
