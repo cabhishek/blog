@@ -1,5 +1,4 @@
-<!-- Put typekit in the head for the fastest possible download. -->
-<script src="//use.typekit.net/okr0cba.js"></script>
+<link href="http://fonts.googleapis.com/css?family=Gentium+Book+Basic" rel="stylesheet" type="text/css" />
 
 <script>
 ga = function() { ga.q.push(arguments); };
@@ -22,19 +21,6 @@ ga('create', '', 'auto');
     });
   });
 {{/is}}
-
-
-// Initialize typekit and track how frequently it fails.
-try {
-  Typekit.load();
-}
-catch(err) {
-  ga('send', 'exception', {
-    exDescription: err.stack || err.message,
-    exFatal: false
-  });
-}
-
 
 // Track uncaught errors via Google Analytics.
 window.onerror = function(message, url, line, col) {
