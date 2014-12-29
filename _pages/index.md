@@ -5,7 +5,7 @@
 }
 -->
 
-I currently work at [The Motley Fool](http://fool.com) in Washington DC. Previously I co-founded [Datathletics](), a data science project to help triathletes make better race decisions.
+I currently work at [The Motley Fool](http://www.glassdoor.com/Overview/Working-at-Motley-Fool-EI_IE10051.11,22.htm) in Washington DC. Previously I co-founded [Datathletics](), a data science project to help triathletes make better race decisions.
 
 I'm interested in Product development, open source software, data analysis and visualization. I enjoy writing code while travelling.
 
