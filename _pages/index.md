@@ -26,6 +26,7 @@ I'm interested in Product development, open source software, data analysis and v
 * Commerce     - A complete E-commerce system with product management tools
 
 
-This site is built using [Ingen](https://github.com/philipwalton/ingen)
+<sub>This site is built using [Ingen](https://github.com/philipwalton/ingen)</sub>
+
 
 
