@@ -7,7 +7,7 @@
 
 Thanks for visiting my site. I currently work at [The Motley Fool](http://www.glassdoor.com/Overview/Working-at-Motley-Fool-EI_IE10051.11,22.htm) in Washington DC and previously I co-founded [Datathletics LLC](), a data science company to help triathletes make better race decisions.
 
-My intrests lie in startups, product development, programming languages, data analysis and visualization. I enjoy travelling and programming. And its best when I do both of those together.
+My interests lie in startups, product development, programming languages, data analysis and visualization. I enjoy travelling and programming. And its best when I do both of those together.
 
 
 ## Links
